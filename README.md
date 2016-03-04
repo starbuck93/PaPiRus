@@ -8,7 +8,7 @@ Resources for PaPiRus ePaper eInk display
 # Setup PaPiRus
 ```bash
 # Run this line and PaPiRus will be setup and installed
-curl -sSL https://goo.gl/i1Imel | sudo bash
+curl -sSL https://raw.githubusercontent.com/starbuck93/PaPiRus/master/install | sudo bash
 ```
 
 # Manual Installation
