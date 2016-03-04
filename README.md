@@ -1,6 +1,6 @@
 This is my fork of PaPiRus with all the bugs fixed. The main repo is pretty broken. Credit for the fixes here: http://frederickvandenbosch.be/?p=1483
 
-#!!!UNDER CONSTRUCTION!!!
+!!!UNDER CONSTRUCTION!!!
 
 # PaPiRus
 Resources for PaPiRus ePaper eInk display
