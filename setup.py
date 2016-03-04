@@ -9,5 +9,5 @@ setup(name='papirus',
       author_email='me.starbuck@gmail.com',
       url='starbuckstech.com',
       packages=['papirus'],
-      scripts=['bin/papirus-clear', 'bin/papirus-write', 'bin/papirus-set', 'bin/papirus-gol', 'bin/papirus-clock', 'bin/papirus-config', 'bin/papirus-setup']
+      scripts=['bin/papirus-clear', 'bin/papirus-write', 'bin/papirus-set', 'bin/papirus-gol', 'bin/papirus-clock', 'bin/papirus-config', 'bin/papirus-setup', 'bin/papirus-draw']
      )
