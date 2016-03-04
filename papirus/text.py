@@ -2,8 +2,8 @@ import os
 import sys
 
 from PIL import Image
-from PIL import ImageDraw
-from PIL import ImageFont
+from PIL import ImageDraw #http://effbot.org/imagingbook/imagedraw.htm
+from PIL import ImageFont #http://effbot.org/imagingbook/imagefont.htm
 from papirus import Papirus
 import random
 
