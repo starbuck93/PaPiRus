@@ -8,7 +8,7 @@ import random
 
 class PapirusText():
 
-    def __init__():
+    def __init__(self):
         self.papirus = Papirus()
 
     def write(self, text, size = 20):
@@ -34,9 +34,9 @@ class PapirusText():
                 text_lines[current_line] += " " + word
             else:
                 # No space left on line so move to next one
-    	    text_lines.append("")
+    	        text_lines.append("")
                 current_line += 1
-    	    text_lines[current_line] += " " + word
+    	        text_lines[current_line] += " " + word
 
         current_line = 0
         for l in text_lines:

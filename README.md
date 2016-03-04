@@ -1,3 +1,5 @@
+This is my fork of PaPiRus with all the bugs fixed. The main repo is pretty broken. Credit for the fixes here: http://frederickvandenbosch.be/?p=1483
+
 #!!!UNDER CONSTRUCTION!!!
 
 # PaPiRus
@@ -17,7 +19,7 @@ curl -sSL https://goo.gl/i1Imel | sudo bash
 # Install dependencies
 sudo apt-get install python-imaging
 
-git clone https://github.com/PiSupply/PaPiRus.git
+git clone https://github.com/starbuck93/PaPiRus.git
 cd PaPiRus
 sudo python setup.py install    # Install PaPirRus python library
 ```
