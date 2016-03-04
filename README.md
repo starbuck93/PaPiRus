@@ -79,7 +79,7 @@ text = PapirusText()
 # text.write(text)
 text.write("hello world")
 
-# Write text to the screen with a font size specified
+# Write text to the screen with a font size specified (default is 20)
 # text.write(text, font_size)
 text.write("hello world", 20 )
 ```
