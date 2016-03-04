@@ -86,17 +86,14 @@ text.write("hello world", (10, 10) )
 
 #### The Image API
 ```python
-from papirus import PapirusImage
+from papirus import Papirus
+from PIL import Image
+papirus = Papirus()
 
-image = PapirusImage()
+image = Image.open('/home/pi/imgs/logo.bmp')
+papirus.display(image)
+papirus.update()
 
-# easy write image to screen
-# image.write(path)
-image.write('/path/to/image')
-
-# write image to the screen with size and position
-# image.write(path, width, (x,y))
-image.write('/path/to/image', 20, (10, 10) )
 ```
 #### Notes
 
