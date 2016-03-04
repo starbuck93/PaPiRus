@@ -136,12 +136,4 @@ papirus-clock
 # Run game of life
 papirus-gol
 
-# Show system information
-papirus-system
-
-# Push framebuffer to screen
-papirus-framepush
-
-# Snakes game
-papirus-snakes
 ```
